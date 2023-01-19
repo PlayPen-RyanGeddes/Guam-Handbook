@@ -25,7 +25,7 @@
 - ### GHURA Application: Renewals
 - ### [GHURA Eviction Process](#ghura-eviction-guide)
 - ### GHURA Standards And Inspections
-- ### [New Business License Application](#new-business-license-application)
+- ### [New Business License Applications](#new-business-license-application)
 - ### Lease Agreements
 - ### Budgets
 
@@ -74,7 +74,7 @@
 - # GHURA Standards
 - # New Business License Application
 This is a guide to applying for a new business license upon acquiring a new property.  As of 2022, it is Kokobird Property policy to hold each property under a separate business license as a sole proprietor.
-1. Fill out new Business License Application at Department of Revenue and Tax.  Entrance on unmarked door on right side of large white warehouse at 1240 16, Barrigada, 96913, Guam.  Example Application can be found at [Guam Tax Docs](https://www.govguamdocs.com/revtax/docs/BusinessLicenseApplication.pdf) or saved in kokobird drive.  **You will need to bring a copy of the current deed to property**. DRT will issue a Locator Number on application and indicate 5 required clearances at Land Management, Public Works Bldg Permit, Guam Fire Department, Real Property Tax Div, and Gross Receipt Tax/Collections.
-2. Dept of Land Management must review and clear first before other departments will provide clearance.  DLM located in ITC building on 3rd floor at 590 S Marine Corps Dr, Tamuning, 96913, Guam.  **Carefully review plat number on application as DLM will just stamp your application without reviewing for accuracy.**
+1. Fill out new Business License Application at Department of Revenue and Tax.  Entrance on unmarked door on right side of large white warehouse at 1240 16, Barrigada, 96913, Guam.  Example Application can be found at [Guam Tax Docs](https://www.govguamdocs.com/revtax/docs/BusinessLicenseApplication.pdf) or saved in kokobird drive.  **You will need to bring a copy of the current deed to property**. DRT will issue a Locator Number on application and indicate 5 required clearances at: Land Management, Public Works Bldg Permit, Guam Fire Department, Real Property Tax Div, and Gross Receipt Tax/Collections.
+2. Dept of Land Management must review and clear application **first** before other departments.  DLM located in ITC building on 3rd floor at 590 S Marine Corps Dr, Tamuning, 96913, Guam.  **Carefully review plat number on application as DLM will just stamp your application without reviewing for accuracy.**
 - # Lease Agreements
 - # Budgets
