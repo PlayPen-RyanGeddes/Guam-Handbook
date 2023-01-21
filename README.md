@@ -100,14 +100,14 @@
 14.  Every two years GHURA will perform a quality of life inspection.  See [GHURA Standards](#ghura-standards)
 15. You may not evict a tenant within the first 12 months for any reason.  After first 12 months you must provide 30 days notice.  Easy justifications for eviction are renovations, non-payment of copays, damages, utility abuse.  See [GHURA Eviction Guide](#ghura-eviction-guide)
 16. Tenants are responsible for a small co-pay of monthly rent paid via direct deposit.  Instruct them to put their name on deposit slip for accounting.  See [Collection of Rents from Tenants](#collection-of-rents-tenants)
-- # GHURA Tenant Renewals
-- # GHURA Eviction Guide
-- # GHURA Standards
-- # New Business License Application
+# GHURA Tenant Renewals
+# GHURA Eviction Guide
+# GHURA Standards
+# New Business License Application
 This is a guide to applying for a new business license upon acquiring a new property.  As of 2022, it is Kokobird Property policy to hold each property under a separate business license as a sole proprietor.
 1. Fill out new Business License Application at Department of Revenue and Tax.  Entrance on unmarked door on right side of large white warehouse at 1240 16, Barrigada, 96913, Guam.  Example Application can be found at [Guam Tax Docs](https://www.govguamdocs.com/revtax/docs/BusinessLicenseApplication.pdf) or saved in kokobird drive.  **You will need to bring a copy of the current deed to property** and complete a Good Moral Character questionnaire, Certificate of Transacting Business under a Fictitious Name (if applicable) and proof of registration with the Department of Revenue & Taxation. DRT will issue a Locator Number on application and indicate 5 required clearances at: Land Management, Public Works Bldg Permit, Guam Fire Department, Real Property Tax Div, and Gross Receipt Tax/Collections.
 2. Dept of Land Management must review and clear application **first** before other departments.  DLM located in ITC building on 3rd floor at 590 S Marine Corps Dr, Tamuning, 96913, Guam.  **Carefully review plat number on application as DLM will just stamp your application without reviewing for accuracy.**
 3. Public Works, GFD Real Property Tax Division and GRT/Collections clearances can all be obtained at the One Stop Licensing Center at GR33+23Q, Tamuning, 96913, Guam.  All fees are payable to Treasurer of Guam.
 
-- # Lease Agreements
-- # Budgets
+# Lease Agreements
+# Budgets
