@@ -50,10 +50,10 @@
 
  
 - #### Department of Revenue & Taxation (DRT) 
-- 646-3102
+ - 646-3102
 
 - #### Guam Fire Department (GFD) 
-- 646-8810
+  - 646-8810
 
 - #### Department of Land Management (DLM) 
 - 647-0854
