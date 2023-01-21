@@ -56,16 +56,16 @@
 -646-8810
 
 - #### Department of Land Management (DLM) 
--647-0854
+- 647-0854
 
 - #### Department of Public Health & Social Services (DPHSS) 
--646-1276
+- 646-1276
 
 - #### Guam Environmental Protection Agency (EPA) 
--647-GEPA
+- 647-GEPA
 
 - #### Treasurer of Guam (TOG) 
--646-3150
+- 646-3150
 
 - # Contractors and Vendors
 - # Liability Insurance
