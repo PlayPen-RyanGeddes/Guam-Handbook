@@ -37,7 +37,7 @@
 - Erica Gumataotao, Interviewer Clerk, egumataotao@ghura.org · (671) 300-8409
 
 ## GFD Contacts
-- Lt. Philip Camacho, Safety Inspections and Scheduling, egumataotao@ghura.org · (671) 646-8810
+- Lt. Philip Camacho, Safety Inspections and Scheduling at One Stop · (671) 646-8810
 
 ## One Stop Contact Info
 - Address: GR33+23Q, Tamuning, 96913, Guam
