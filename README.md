@@ -49,22 +49,22 @@
 - 646-3104     Building Inspectors
 
  
-- ####Department of Revenue & Taxation (DRT) 
+- #### Department of Revenue & Taxation (DRT) 
 - 646-3102
 
-- ####Guam Fire Department (GFD) 
+- #### Guam Fire Department (GFD) 
 -646-8810
 
-- ####Department of Land Management (DLM) 
+- #### Department of Land Management (DLM) 
 -647-0854
 
-- ####Department of Public Health & Social Services (DPHSS) 
+- #### Department of Public Health & Social Services (DPHSS) 
 -646-1276
 
-- ####Guam Environmental Protection Agency (EPA) 
+- #### Guam Environmental Protection Agency (EPA) 
 -647-GEPA
 
-####Treasurer of Guam (TOG) 
+- #### Treasurer of Guam (TOG) 
 -646-3150
 
 - # Contractors and Vendors
