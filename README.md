@@ -40,8 +40,8 @@
 - Lt. Philip Camacho, Safety Inspections and Scheduling, egumataotao@ghura.org · (671) 646-8810
 
 ## One Stop Contact Info
-- GR33+23Q, Tamuning, 96913, Guam
-### Department of Public Works (DPW)
+- Address: GR33+23Q, Tamuning, 96913, Guam
+- #### Department of Public Works (DPW)
 - 649-6178     Fax
 - 646-3104     Customer Service Counter
 - 646-3104    Building Inspector & Permits Administrator
@@ -49,17 +49,23 @@
 - 646-3104     Building Inspectors
 
  
-- Department of Revenue & Taxation (DRT) 646-3102
+- ####Department of Revenue & Taxation (DRT) 
+- 646-3102
 
-- Guam Fire Department (GFD) 646-8810
+- ####Guam Fire Department (GFD) 
+-646-8810
 
-- Department of Land Management (DLM) 647-0854
+- ####Department of Land Management (DLM) 
+-647-0854
 
-- Department of Public Health & Social Services (DPHSS) 646-1276
+- ####Department of Public Health & Social Services (DPHSS) 
+-646-1276
 
-- Guam Environmental Protection Agency (EPA) 647-GEPA
+- ####Guam Environmental Protection Agency (EPA) 
+-647-GEPA
 
-- Treasurer of Guam (TOG) 646-3150
+####Treasurer of Guam (TOG) 
+-646-3150
 
 - # Contractors and Vendors
 - # Liability Insurance
