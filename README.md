@@ -29,9 +29,9 @@
 - ### Lease Agreements
 - ### Budgets
 
-- # Guam Paperwork Glossary
-- # Schedule of Properties
-- # Contacts
+# Guam Paperwork Glossary
+# Schedule of Properties
+# Contacts
 
 ## GHURA Contacts
 - Erica Gumataotao, Interviewer Clerk, egumataotao@ghura.org · (671) 300-8409
@@ -67,23 +67,23 @@
 - #### Treasurer of Guam (TOG) 
   - 646-3150
 
-- # Contractors and Vendors
-- # Liability Insurance
-- # Certificates of Insurance
-- # Insurance Claims
-- # Legal Counsel
-- # Taxes
-- # Collection of Rents
-- # Collection of Rents: Tenants
-- # Collection of Rents:GHURA
-- # Setting and Adjusting GHURA Rents
-- # Repairs and Maintenance Overview
-- # Maintenance Plan
-- # Capital Expenditures
-- # Emergency Plan
-- # Specific Duties of Manager Rep
-- # Budgets
-- # GHURA New Tenant Guide
+# Contractors and Vendors
+# Liability Insurance
+# Certificates of Insurance
+# Insurance Claims
+# Legal Counsel
+# Taxes
+# Collection of Rents
+# Collection of Rents: Tenants
+# Collection of Rents:GHURA
+# Setting and Adjusting GHURA Rents
+# Repairs and Maintenance Overview
+# Maintenance Plan
+# Capital Expenditures
+# Emergency Plan
+# Specific Duties of Manager Rep
+# Budgets
+# GHURA New Tenant Guide
 1. GHURA allows landlords to post available units for rent through their free web portal at [ghura.org](https://ghura.org/).  Post your unit here specifying for Section 8 tenants.
 2. Before showing unit to prospective tenants, ask if they have a voucher and verify the voucher authorizes the correct number of bedrooms.  Vouchers specify a maximum rent based on authorized bedrooms so it is inefficient to rent a unit with more bedrooms than indicated.  You cannot rent a unit that contains fewer bedrooms than authorized by the tenant voucher.
 3. Before meeting with the prospective tenant, prepare your business license, warranty deed, utility bills (power and water), lease agreement and master record.  The master record is a certificate that shows verifies you have an active business license.
