@@ -72,11 +72,19 @@
    ### Isla Coatings & Roofing Supply
     Address: 250 Guerrero Drive, Suite #104 Tamuning, Guam 96913
     Phone: 671-647-7871
+    Email: islasystems@guam.net
+    Website: www.islacoatingsguam.com
 
    #### Jonathon Davis
-   Sales/Technical Rep
-   Phone: 671-647-7870
-   Cell: 671-688-7634
+    Sales/Technical Rep
+    Phone: 671-647-7870
+    Cell: 671-688-7634
+    Notes: Lives in Agat
+    
+   #### Brian and Jaylene Kent
+    Owners
+    Notes: Extremely Knowledgable
+    
 
 # Liability Insurance
 # Certificates of Insurance
