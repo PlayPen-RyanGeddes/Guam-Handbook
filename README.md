@@ -69,6 +69,12 @@
 
 # Contractors and Vendors
 ## Landscaping
+   ### Preferred Vendor - Express Cut
+    Address: N/A
+    Contact: Sam
+    Phone: (671)486-3681
+    Email: expresscutguam@gmail.com
+    Website: https://www.expresscutguam.com/
 
 ## Maintenance
 
