@@ -15,8 +15,8 @@
 - ### Collection of Rents
 - ### Collection of Rents from Tenants
 - ### Collection of Rents from GHURA
-- ### [Repairs and Maintenance](repairs-and-maintenance-overview)
-- ### [Maintenance Plan](maintenance-plan-and-checklists)
+- ### [Repairs and Maintenance](#repairs-and-maintenance-overview)
+- ### [Maintenance Plan](#maintenance-plan-and-checklists)
 - ### Capital Expenditures
 - ### Emergency Plan
 - ### Specific Duties of Manager Rep
