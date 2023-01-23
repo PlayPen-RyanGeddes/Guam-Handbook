@@ -68,6 +68,22 @@
   - 646-3150
 
 # Contractors and Vendors
+## Landscaping
+
+## Maintenance
+
+## Electrician
+
+## Electrical Supplies
+
+## Plumbing
+
+## HVAC Technician
+
+## HVAC Supplies
+
+## Building Supplies
+
 ## Roofing Suppliers
    ### Preferred Vendor - Isla Coatings & Roofing Supply
     Address: 250 Guerrero Drive, Suite #104 Tamuning, Guam 96913
@@ -104,7 +120,17 @@
 # Collection of Rents:GHURA
 # Setting and Adjusting GHURA Rents
 # Repairs and Maintenance Overview
+
+## Driveway Maintenance
+
+## Concrete Roofing Maintenance Guide
+Silicones vs Acrylics, Lifepsances, costs inspection, interior vs exterior, pressure washing, pooling, 
+
+## HVAC Maintenance Guidelines
+
 # Maintenance Plan
+## Monthly Inspection Checklist
+## Annual Inspection Checklist
 # Capital Expenditures
 # Emergency Plan
 # Specific Duties of Manager Rep
@@ -137,3 +163,35 @@ This is a guide to applying for a new business license upon acquiring a new prop
 
 # Lease Agreements
 # Budgets
+
+
+
+# OMA Guam Preflight Checklist
+
+### Identification
+- passport
+- IDs
+- global entry card
+
+### Payment Methods
+- United Card
+- Costco Card
+- Checkbook - BOH
+- Checkbook - First Hawaiian
+
+### Documents
+- tax docs
+- passp
+
+### Personal Items
+- pasalubong
+- food unavailable on guam
+- lotion/skincare
+
+### Home items
+- appliances
+- HVAC upgrades (filters, thermostat, etc)
+- 
+
+### Auto
+- Record Car mileage for taxes
