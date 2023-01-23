@@ -75,13 +75,13 @@
     Email: islasystems@guam.net
     Website: www.islacoatingsguam.com
 
-   #### Jonathon Davis
+    Jonathon Davis
     Sales/Technical Rep
     Phone: 671-647-7870
     Cell: 671-688-7634
     Notes: Lives in Agat
     
-   #### Brian and Jaylene Kent
+    Brian and Jaylene Kent
     Owners
     Notes: Extremely Knowledgable
     
