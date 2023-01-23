@@ -69,14 +69,14 @@
 
 # Contractors and Vendors
 ## Roofing Suppliers
-    ### Isla Coatings & Roofing Supply
-    Address: 250 Guerrero Drive, Suite #104 Tamuning, Guam 96913
-    Phone: 671-647-7871
+   ### Isla Coatings & Roofing Supply
+   Address: 250 Guerrero Drive, Suite #104 Tamuning, Guam 96913
+   Phone: 671-647-7871
 
-        #### Jonathon Davis
-        Sales/Technical Rep
-        Phone: 671-647-7870
-        Cell: 671-688-7634
+   #### Jonathon Davis
+   Sales/Technical Rep
+   Phone: 671-647-7870
+   Cell: 671-688-7634
 
 # Liability Insurance
 # Certificates of Insurance
