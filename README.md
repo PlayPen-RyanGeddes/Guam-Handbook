@@ -15,8 +15,8 @@
 - ### Collection of Rents
 - ### Collection of Rents from Tenants
 - ### Collection of Rents from GHURA
-- ### Repairs and Maintenance Overview
-- ### Maintenance Plan
+- ### [Repairs and Maintenance](Repairs-and-Maintenance-Overview)
+- ### [Maintenance Plan](Maintenance-Plan-and-Checklists)
 - ### Capital Expenditures
 - ### Emergency Plan
 - ### Specific Duties of Manager Rep
@@ -137,7 +137,7 @@ There are two mainSilicones vs Acrylics, Lifepsances, costs inspection, interior
 
 ## HVAC Maintenance Guidelines
 
-# Maintenance Plan
+# Maintenance Plan and Checklists
 ## Monthly Inspection Checklist
 ## Annual Inspection Checklist
 # Capital Expenditures
