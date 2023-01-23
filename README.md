@@ -69,7 +69,7 @@
 
 # Contractors and Vendors
 ## Roofing Suppliers
-   ### Isla Coatings & Roofing Supply
+   ### Preferred Vendor - Isla Coatings & Roofing Supply
     Address: 250 Guerrero Drive, Suite #104 Tamuning, Guam 96913
     Phone: 671-647-7871
     Email: islasystems@guam.net
@@ -85,7 +85,15 @@
     Owners
     Notes: Extremely Knowledgable
     
+   ### Lexis Coatings
+    Website: https://www.lexiscoatings.com/pages/guam/
+    
+   ### Marianas Coating
+    Phone: 671-483-3967
+    Email: marianascoating@gmail.com
+    Website: www.islacoatingsguam.com
 
+          
 # Liability Insurance
 # Certificates of Insurance
 # Insurance Claims
