@@ -40,7 +40,7 @@
 - Lt. Philip Camacho, Safety Inspections and Scheduling at One Stop · (671) 646-8810
 
 ## One Stop Contact Info
-- Address: GR33+23Q, Tamuning, 96913, Guam
+  Address: GR33+23Q, Tamuning, 96913, Guam
 - #### Department of Public Works (DPW)
   - 649-6178     Fax
   - 646-3104     Customer Service Counter
